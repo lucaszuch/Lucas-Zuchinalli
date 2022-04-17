@@ -1,5 +1,5 @@
 ## :raised_hands: Hey!! I'm Lucas Zuchinalli.
-Brazilian, currently living in London.<br>
+Brazilian, currently living in Gent - Belgium.<br>
 Web Developer at [Tyxan](https://tyxan.com/).
 
 ## :world_map: Drop me a message:
