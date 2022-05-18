@@ -8,6 +8,6 @@ Web Developer at [Tyxan](https://tyxan.com/).
 - [Email](zuchinalli@gmail.com)
 
 ## :currency_exchange: Languages:
-- Portugueses :brazil:
+- Portuguese :brazil:
 - English :uk:
 - Italian :it:
