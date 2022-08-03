@@ -1,6 +1,6 @@
 ## :raised_hands: Hey!! I'm Lucas Zuchinalli.
 Brazilian, currently living in Gent - Belgium.<br>
-Web Developer at [Tyxan](https://tyxan.com/).
+Web Developer @ Deloitte
 
 ## :world_map: Drop me a message:
 - [Twitter](https://twitter.com/ZuchinalliLucas)
