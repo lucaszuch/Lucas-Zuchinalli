@@ -3,7 +3,6 @@ Brazilian, currently living in Gent - Belgium.<br>
 Web Developer @ Deloitte
 
 ## :world_map: Drop me a message:
-- [Twitter](https://twitter.com/ZuchinalliLucas)
 - [LinkedIn](https://www.linkedin.com/in/lucas-zuchinalli-3018465a/)
 - [Email](zuchinalli@gmail.com)
 
